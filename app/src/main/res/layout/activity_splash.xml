@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".SplashActivity"
-    android:background="@color/my_primary"
+    android:background="@drawable/background"
     android:orientation="vertical"
     android:gravity="center">
 
@@ -13,16 +13,17 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Notes Pro"
-        android:textColor="@color/white"
+        android:textColor="@color/black"
         android:textSize="32sp"
         android:textAlignment="center"
-        android:textStyle="bold"/>
+        android:textStyle="bold"
+        android:layout_marginTop="360dp"/>
 
     <ProgressBar
         android:layout_width="24dp"
         android:layout_height="24dp"
-        android:indeterminateTint="@color/white"
-        android:layout_marginTop="8dp"/>
+        android:indeterminateTint="@color/black"
+        android:layout_marginTop="8dp" />
 
 
 </LinearLayout>

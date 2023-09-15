@@ -34,7 +34,7 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Letss get started "
+            android:text="Let's get started "
             android:textSize="32sp"
             android:textStyle="bold"
             android:textColor="@color/black"/>

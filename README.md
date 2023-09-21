@@ -44,3 +44,5 @@ Future Developments:
 4. Advanced Encryption: Implement advanced encryption options for users with high security requirements.
 
 Notes Pro is your ultimate note-taking solution, combining user-friendly features with top-notch security and accessibility. Start organizing your thoughts and ideas today with Notes Pro.
+
+
